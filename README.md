@@ -32,8 +32,8 @@ The Spitfire Flight Simulator is a thrilling Unity-based game that immerses play
   Engine sounds, crash effects, and missile launch sounds make each flight more immersive.
 
 ## 🎥 Gameplay Preview
-**Watch the Demo Video**: https://www.youtube.com/watch?v=cuhxGBkSdAI  
-[![Spitfire Flight Simulator Demo](https://img.youtube.com/vi/cuhxGBkSdAI/0.jpg)](https://www.youtube.com/watch?v=cuhxGBkSdAI)  
+**Watch the Demo Video**: 
+[![Spitfire Flight Simulator Demo](https://img.youtube.com/vi/UXWjiwgtOK8/0.jpg)](https://www.youtube.com/watch?v=UXWjiwgtOK8)  
 (*Click the thumbnail to watch the video.*)
 
 ## 🎮 How to Play
