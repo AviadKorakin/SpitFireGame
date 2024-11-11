@@ -4,8 +4,6 @@ Here's the updated README with the **gravity feature** and **3D audio support** 
 
 # Spitfire Flight Simulator 🛫
 
-![Banner](https://via.placeholder.com/800x200?text=Spitfire+Flight+Simulator)
-
 > **A WWII-inspired, action-packed Spitfire flight simulator with realistic controls, animations, and immersive gameplay.**
 
 ## 📖 Overview
