@@ -85,6 +85,9 @@ private void HandleRotationInput()
     transform.Rotate(pitch, yaw, roll);
 }
 ```
+## 📥 Download
+Download the latest version of **Spitfire Flight Simulator** here:  
+[![Download Game](https://img.shields.io/badge/Download-Game-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1GotJiRUcHffO90UDp3JGr4W_7YlIvAHn/view?usp=sharing)
 
 ## 👨‍💻 Credits
 - **Development**: Aviad Korakin
